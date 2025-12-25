@@ -1,0 +1,22 @@
+{
+  "name": "cypress-agenda-contatos",
+  "version": "1.0.0",
+  "description": "Testes E2E para aplicação de agenda de contatos usando Cypress",
+  "main": "index.js",
+  "scripts": {
+    "cypress:open": "cypress open",
+    "cypress:run": "cypress run",
+    "test": "cypress run"
+  },
+  "keywords": [
+    "cypress",
+    "e2e",
+    "testing",
+    "ebac"
+  ],
+  "author": "EBAC Student",
+  "license": "ISC",
+  "devDependencies": {
+    "cypress": "^13.6.2"
+  }
+}
