@@ -6,6 +6,8 @@ Este projeto contém testes automatizados E2E (End-to-End) para a aplicação de
 
 **URL da Aplicação:** https://ebac-agenda-contatos-tan.vercel.app/
 
+> ⚠️ **Nota Importante:** Se a aplicação retornar erro 402 ou não estiver disponível, pode ser necessário verificar a disponibilidade da URL ou aguardar a restauração do serviço. Os testes estão configurados corretamente e executarão assim que a aplicação estiver acessível.
+
 ## ✨ Funcionalidades Testadas
 
 - ✅ **Inclusão de Contatos** - Adiciona novos contatos à agenda
